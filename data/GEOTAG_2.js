@@ -1,0 +1,1 @@
+var json_GEOTAG_2 = {"type":"FeatureCollection","name":"GEOTAG_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"NAME":"GEOTAG","FOLDER":"C:\\RLGM\\SHELLA.JPG"},"geometry":{"type":"Point","coordinates":[126.073414857381266,8.02656373426121]}}]}
